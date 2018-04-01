@@ -13,97 +13,40 @@ wordpress_id: 6
 
 **Data Science | Materials Science | Design **
 
-
-
-## 
-
-
-
-
-
 ## Experience
 
 
 
 **Data Science Consultant **| Drizl | Seattle, WA | 2016
 
-
-
-
-    
   * Designed and built an image-featurization engine and clustering algorithms
-
-    
   * Built a recommender engine to cluster and suggest artworks based on personal preferences
-
-
 
 **Data Science Fellow **| Galvanize | Seattle, WA | 2016
 
-
-
-
-    
   * Participated in an intensive 12-week, projects-based course covering state-of-the-art machine learning topics, statistics, Python, SQL, and Big Data tools
-
-    
   * Implemented many machine learning methods from scratch (linear regression, logistic regression, k-nearest neighbors, decision trees, random forest...)
-
-
 
 **Chief Design Officer **| JumpStartCSR | Seattle, WA | 2015 - 2016
 
-
-
-
-    
   * Designed and manufactured 3D-printed intelligent insoles and orthotics
-
-    
   * Built UX/UI prototypes for our web-app and dataviz applications
-
-    
   * Assisted in the writing of technical documentation for two patents
-
-
 
 **Technical Editor **| EWorldEditing | Eugene, OR | 2014 - 2015
 
-
-
-
-    
   * Edited the grammar and style of technical papers from foreign researchers for publication in English-speaking scholarly journals
-
-
 
 **Graduate Student Researcher **| U. of WA | Seattle, WA  +  France | 2010 - 2015
 
-
-
-
-    
   * Collaborated with an international team to develop an integrated experimental/simulation approach to studying multifunctional, porous ceramics using freeze-casting and discrete-element modelling (DEM)
-
-    
   * Pioneered methods to simultaneously suspend dissimilar ceramic particles in an aqueous environment capable of freeze-casting
-
-    
   * Published 11 papers (3 first author) with 35+ citations in scientific literature
-
 
 
 **Biomedical R&D Intern **| TDC Medical | Sunnyvale, CA | 2008
 
-
-
-
-    
   * Assisted in the prototyping of an ultrasonic cardiac catheter
-
-
-
-
 
 ## Teaching Experience
 
