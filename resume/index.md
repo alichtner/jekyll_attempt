@@ -24,7 +24,7 @@ wordpress_id: 6
   * Designed and built an image-featurization engine and clustering algorithms
   * Built a recommender engine to cluster and suggest artworks based on personal preferences
 
-#### Data Science Fellow **| Galvanize | Seattle, WA | 2016
+#### Data Science Fellow | Galvanize | Seattle, WA | 2016
 
   * Participated in an intensive 12-week, projects-based course covering state-of-the-art machine learning topics, statistics, Python, SQL, and Big Data tools
   * Implemented many machine learning methods from scratch (linear regression, logistic regression, k-nearest neighbors, decision trees, random forest...)
@@ -92,12 +92,12 @@ _California Polytechnic State University_
 
 #### University of Washington | Seattle, WA
     
-  * Ph.D. Materials Science and Engineering | 2015    
-  * Master's Materials Science and Engineering | 2013
+  * Ph.D. Materials Science and Engineering - 2015    
+  * Master's Materials Science and Engineering - 2013
 
 #### California Polytechnic State University | San Luis Obispo, CA
 
-  * B.S. Materials Engineering | 2009
+  * B.S. Materials Engineering - 2009
 
 
 ## Publications
@@ -136,9 +136,9 @@ _California Polytechnic State University_
 
 ## Awards
 
-* Galvanize Foundation Diversity Scholarship | 2016
-* Teaching Assistant of the Year | University of Washington | 2011
-* Delimitros Fellowship | University of Washington | 2010
+ * Galvanize Foundation Diversity Scholarship - 2016
+ * Teaching Assistant of the Year - University of Washington - 2011
+ * Delimitros Fellowship - University of Washington - 2010
 
 ## Leadership and Involvement
 
