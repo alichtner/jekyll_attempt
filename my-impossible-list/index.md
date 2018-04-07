@@ -99,7 +99,7 @@ I have been lucky enough to travel a great deal for both business and pleasure. 
         
     * <del>Colorado</del>, Connecticut, Delaware, District Of Columbia, <del>Florida</del>
         
-    * <del>Georgia</del>, <del>Hawaii</del>, Idaho, Illinois, Indiana, Iowa, Kansas
+    * <del>Georgia</del>, <del>Hawaii</del>, Idaho, <del>Illinois</del>, Indiana, Iowa, Kansas
         
     * Kentucky, Louisiana, Maine, Maryland, <del>Massachusetts</del> Michigan, New Hampshire
         
