@@ -43,9 +43,6 @@ $on-laptop:        800px;
   }
 }
 
-// Import partials from the `whiteglass` theme.
-@import "whiteglass";
-
 // Custom CSS
 
 .center-image
@@ -59,3 +56,6 @@ table, th, td {
    padding: 15px;
    background-color: #ededed;
 }
+
+// Import partials from the `whiteglass` theme.
+@import "whiteglass";
