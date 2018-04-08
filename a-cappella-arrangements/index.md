@@ -28,7 +28,7 @@ I have in the past done works for other groups with a small commission. If inter
 | Bottom of the River* | Delta Rae | SATB |
 | [Dark Disney](http://biz157.inmotionhosting.com/~aaronl8/wp-content/uploads/2014/10/Dark-Disney.pdf) | Medley of more villian/dark Disney Songs | SATBB + male and female solos |
 | [Disney Medley](http://biz157.inmotionhosting.com/~aaronl8/wp-content/uploads/2014/12/Disney-medley6-Full-Score.pdf) | | |
-| [Don't Speak](http://aaronlichtner.com/wp-content/uploads/2014/10/DontSpeakFinal.pdf), | No Doubt | SATB + solo |
+| [Don't Speak](http://aaronlichtner.com/wp-content/uploads/2014/10/DontSpeakFinal.pdf) | No Doubt | SATB + solo |
 | [Eye of the Tiger/Chariots of Fire](http://biz157.inmotionhosting.com/~aaronl8/wp-content/uploads/2014/10/eye-of-the-tiger-Full-Score.pdf) | Survivor/Vangelis |  SATTBB + solo | 
 | [Happy Ending](http://biz157.inmotionhosting.com/~aaronl8/wp-content/uploads/2014/12/Happy-Ending-wo-chords-Full-Score.pdf) | Mika | SATB + solo | 
 | [I'm Yours](http://aaronlichtner.com/wp-content/uploads/2014/10/ImYoursFinal.pdf) | Jason Mraz | SATB + solo | 

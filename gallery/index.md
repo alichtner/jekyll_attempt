@@ -11,4 +11,3 @@ wordpress_id: 927
 
 Art runs in my family. I've been drawing and painting since I was a little kid. Lately, I've been working with marker and ink mostly because I'm lazy and don't like cleaning up paint. Enjoy!
 
-[supsystic-gallery id='1']
