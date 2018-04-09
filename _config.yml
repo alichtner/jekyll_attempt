@@ -24,7 +24,7 @@ github_username:  alichtner
 
 # Build settings
 markdown: kramdown
-remote-theme: yous/whiteglass
+theme: minimal
 plugins:
   - jekyll-archives
   - jekyll-paginate
