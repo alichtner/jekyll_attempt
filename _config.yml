@@ -31,7 +31,6 @@ exclude:
   - screenshot.png
   - vendor
 
-theme: jekyll-whiteglass
 remote_theme: yous/whiteglass
 plugins:
   - jekyll-archives
