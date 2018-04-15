@@ -25,7 +25,7 @@ I am now offering 3D design and prototyping services. I offer 3D printing in a v
 ### Materials Science and Engineering
 
 
-I earned a Ph.D. in Materials Science and Engineering in 2015 from the University of Washington. I was a member of the [Bordia Research Group](http://www.clemson.edu/ces/departments/mse/people/faculty/bordia.html) where I studied an exciting process known as [freeze-casting](../freeze-casting).
+I earned a Ph.D. in Materials Science and Engineering in 2015 from the University of Washington. I was a member of the [Bordia Research Group](http://www.clemson.edu/ces/departments/mse/people/faculty/bordia.html) where I studied an exciting process known as [freeze-casting](../freeze-casting).
 
 
 ### Passions
