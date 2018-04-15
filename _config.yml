@@ -31,7 +31,7 @@ exclude:
   - screenshot.png
   - vendor
 
-theme: jekyll-whiteglass
+remote-theme: yous/whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
